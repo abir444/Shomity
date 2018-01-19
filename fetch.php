@@ -1,5 +1,6 @@
 <?php
 //fetch.php
+//first name using as pin_no
 $connect = mysqli_connect("localhost", "root", "", "shomity");
 $columns = array('first_name', 'last_name');
 
