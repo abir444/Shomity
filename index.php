@@ -1,6 +1,6 @@
 <html>
  <head>
-  <title>Live Add Edit Delete Datatables Records using PHP Ajax</title>
+  <title>Ashulia Shomity</title>
   <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
   <script src="https://cdn.datatables.net/1.10.15/js/jquery.dataTables.min.js"></script>
@@ -28,7 +28,7 @@
  </head>
  <body>
   <div class="container box">
-   <h1 align="center">Ashulia Shomity</h1>
+   <h1 align="center">Daily Record</h1>
    <br />
    <div class="table-responsive">
    <br />
@@ -40,7 +40,7 @@
     <table id="user_data" class="table table-bordered table-striped">
      <thead>
       <tr>
-       <th>Pin_NO:</th>
+       <th>Pin Number</th>
        <th>Name</th>
        <th></th>
       </tr>
