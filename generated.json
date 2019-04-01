@@ -1,10 +1,7 @@
-{"link" : {
-  "adress" : "https://www.youtube.com/watch?v=BWG0JO2eTaY"
-},
- {
-  "adress" : "https://www.facebook.com"
-},
 {
-  "adress" : "https://www.youtube.com/watch?v=BWG0JO2eTaY"
-}
+	"link": {
+		"adress": "https://www.youtube.com/watch?v=BWG0JO2eTaY",
+		"adress1": "https://www.facebook.com",
+		"adress2": "https://www.youtube.com/watch?v=BWG0JO2eTaY"
+	}
 }
