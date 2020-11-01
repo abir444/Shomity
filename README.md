@@ -1,2 +1,2 @@
 # Shomity
-moneyTalks
+(this project is in progress)
